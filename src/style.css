@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+h6 {
+  color: brown;
+}
+input {
+  display: block;
+}
+#error {
+  color: rgb(239, 94, 94);
+  text-align: center;
+}
+#heading {
+    text-align: center;
+    color: aquamarine;
+}
+#succes{
+    color: green;
+}
